@@ -1,0 +1,8 @@
+This package include an autoload.php file that registered an autoload
+function for ZxcvbnPhp/* classes.
+
+To use it, you just have to run the following code before using ZxcvbnPhp:
+
+  require_once 'Zxcvbn/autoload.php';
+  use Zxcvbn/Zxcvbn;
+  $zxcvbn = Zxcvbn();
