@@ -1,0 +1,6 @@
+php-zxcvbn (1.3.0-1~dev) unstable; urgency=low
+
+  * Initial debian package release
+
+ -- Benjamin Renard <brenard@easter-eggs.com>  Thu, 16 Dec 2021 16:31:57 +0100
+

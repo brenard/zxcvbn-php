@@ -1,0 +1,26 @@
+This package was debianized by Benjamin Renard <brenard@easter-eggs.com>
+on Thu, 16 Dec 2021 16:31:57 +0100.
+
+It was downloaded from the git repository of a fork of the original
+ZxcbnPhp project:
+
+    https://github.com/brenard/zxcvbn-php
+
+Original ZxcbnPhp project:
+
+    https://github.com/bjeavons/zxcvbn-php
+
+Upstream Author(s):
+
+    Benjamin Jeavons <https://github.com/bjeavons>
+
+Copyright:
+
+    Copyright (c) 2013-2014 Benjamin Jeavons
+
+License:
+
+    Licensed under the MIT License (MIT)
+
+The Debian packaging is copyright 2021, Benjamin Renard <brenard@easter-eggs.com> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
