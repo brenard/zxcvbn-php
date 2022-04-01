@@ -21,7 +21,7 @@ msgstr ""
 
 #: Matchers/DictionaryMatch.php:105
 msgid "Capitalization doesn't help very much"
-msgstr "Les majuscules n'aide pas vraiement"
+msgstr "Les majuscules n'aident pas vraiment"
 
 #: Matchers/DictionaryMatch.php:107
 msgid "All-uppercase is almost as easy to guess as all-lowercase"
@@ -39,7 +39,7 @@ msgstr "Ce mot de passe fait parti du top 100 des plus communs"
 
 #: Matchers/DictionaryMatch.php:123
 msgid "This is a very common password"
-msgstr "Ce mot de passe est très communs"
+msgstr "Ce mot de passe est très commun"
 
 #: Matchers/DictionaryMatch.php:126
 msgid "This is similar to a commonly used password"
@@ -51,7 +51,7 @@ msgstr "Un mot en lui-même est assez simple à deviner"
 
 #: Matchers/DictionaryMatch.php:138
 msgid "Names and surnames by themselves are easy to guess"
-msgstr "Les noms et surnoms en eux-même sont assez simples à deviner"
+msgstr "Les noms et surnoms en eux-mêmes sont assez simples à deviner"
 
 #: Matchers/DictionaryMatch.php:140
 msgid "Common names and surnames are easy to guess"
@@ -67,7 +67,7 @@ msgstr "Les dates sont souvent faciles à deviner"
 
 #: Matchers/DateMatch.php:117
 msgid "Avoid dates and years that are associated with you"
-msgstr "Éviter les dates et les années qui vous sont associées"
+msgstr "Évitez les dates et les années qui vous sont associées"
 
 #: Matchers/YearMatch.php:39
 msgid "Recent years are easy to guess"
@@ -75,11 +75,11 @@ msgstr "Les années récentes sont simples à deviner"
 
 #: Matchers/YearMatch.php:41
 msgid "Avoid recent years"
-msgstr "Éviter les années récentes"
+msgstr "Évitez les années récentes"
 
 #: Matchers/YearMatch.php:42
 msgid "Avoid years that are associated with you"
-msgstr "Éviter les années qui vous sont associées"
+msgstr "Évitez les années qui vous sont associées"
 
 #: Matchers/SpatialMatch.php:64
 msgid "Straight rows of keys are easy to guess"
@@ -97,7 +97,7 @@ msgstr ""
 
 #: Matchers/L33tMatch.php:105
 msgid "Predictable substitutions like '@' instead of 'a' don't help very much"
-msgstr "Les substitutions comme un '@' à la place d'un 'a' n'aide pas vraiment"
+msgstr "Les substitutions comme un '@' à la place d'un 'a' n'aident pas vraiment"
 
 #: Matchers/RepeatMatch.php:92
 msgid "Repeats like \"aaa\" are easy to guess"
@@ -120,11 +120,11 @@ msgstr "Les séquences comme abc ou 6543 sont simples à deviner"
 
 #: Matchers/SequenceMatch.php:96
 msgid "Avoid sequences"
-msgstr "Éviter les séquences"
+msgstr "Évitez les séquences"
 
 #: Feedback.php:29
 msgid "Use a few words, avoid common phrases"
-msgstr "Utiliser quelques mots, éviter les phrases courantes"
+msgstr "Utilisez quelques mots, évitez les phrases courantes"
 
 #: Feedback.php:30
 msgid "No need for symbols, digits, or uppercase letters"
@@ -132,7 +132,7 @@ msgstr "Pas besoin de symboles, de chiffres ou de lettres majuscules"
 
 #: Feedback.php:52
 msgid "Add another word or two. Uncommon words are better."
-msgstr "Ajouter un ou deux autres mots. Les mots peu commun sont préférables."
+msgstr "Ajoutez un ou deux autres mots. Les mots peu communs sont préférables."
 
 #: TimeEstimator.php:79
 msgid "less than a second"
@@ -188,4 +188,4 @@ msgstr "siècles"
 #~ msgstr "La sécurité de ce mot de passe est trop faible."
 
 #~ msgid "Avoid reserved words or words that are associated with you"
-#~ msgstr "Éviter les mots réservés ou les mots qui vous sont associées"
+#~ msgstr "Évitez les mots réservés ou les mots qui vous sont associées"
