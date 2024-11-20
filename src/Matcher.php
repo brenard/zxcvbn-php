@@ -12,6 +12,7 @@ class Matcher
     private const DEFAULT_MATCHERS = [
         Matchers\DateMatch::class,
         Matchers\DictionaryMatch::class,
+        Matchers\FrenchDictionaryMatch::class,
         Matchers\ReverseDictionaryMatch::class,
         Matchers\L33tMatch::class,
         Matchers\RepeatMatch::class,
