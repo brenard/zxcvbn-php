@@ -1,3 +1,11 @@
+php-zxcvbn (1.3.3-0~dev) unstable; urgency=medium
+
+  * Add CustomDictionaryMatch class to easily add custom dictionary
+  * Fix python 3 compatibility of build_frequency_lists.py script
+  * Add french dictionaries matching
+
+ -- Benjamin Renard <brenard@easter-eggs.com>  Wed, 20 Nov 2024 14:11:12 +0100
+
 php-zxcvbn (1.3.2-0~dev) unstable; urgency=medium
 
   * Fix spelling mistakes
