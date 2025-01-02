@@ -1,3 +1,9 @@
+php-zxcvbn (1.4.1-0~dev) unstable; urgency=medium
+
+  * Rebase on bjeavons new upstream 1.4.1 version
+
+ -- Benjamin Renard <brenard@easter-eggs.com>  Thu, 02 Jan 2025 16:38:56 +0100
+
 php-zxcvbn (1.3.4-0~dev) unstable; urgency=medium
 
   * Make build_frequency_lists.py script putting token in lowercase in frequency
