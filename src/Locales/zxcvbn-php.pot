@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-16 19:43+0100\n"
+"POT-Creation-Date: 2026-11-27 12:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,101 +18,101 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
-#: Matchers/DictionaryMatch.php:105
-msgid "Capitalization doesn't help very much"
+#: Matchers/SequenceMatch.php:95
+msgid "Sequences like abc or 6543 are easy to guess"
 msgstr ""
 
-#: Matchers/DictionaryMatch.php:107
-msgid "All-uppercase is almost as easy to guess as all-lowercase"
+#: Matchers/SequenceMatch.php:97
+msgid "Avoid sequences"
 msgstr ""
 
-#: Matchers/DictionaryMatch.php:119
-msgid "This is a top-10 common password"
-msgstr ""
-
-#: Matchers/DictionaryMatch.php:121
-msgid "This is a top-100 common password"
-msgstr ""
-
-#: Matchers/DictionaryMatch.php:123
-msgid "This is a very common password"
-msgstr ""
-
-#: Matchers/DictionaryMatch.php:126
-msgid "This is similar to a commonly used password"
-msgstr ""
-
-#: Matchers/DictionaryMatch.php:131
-msgid "A word by itself is easy to guess"
-msgstr ""
-
-#: Matchers/DictionaryMatch.php:138
-msgid "Names and surnames by themselves are easy to guess"
-msgstr ""
-
-#: Matchers/DictionaryMatch.php:140
-msgid "Common names and surnames are easy to guess"
-msgstr ""
-
-#: Matchers/ReverseDictionaryMatch.php:51
-msgid "Reversed words aren't much harder to guess"
-msgstr ""
-
-#: Matchers/DateMatch.php:115
-msgid "Dates are often easy to guess"
-msgstr ""
-
-#: Matchers/DateMatch.php:117
-msgid "Avoid dates and years that are associated with you"
-msgstr ""
-
-#: Matchers/YearMatch.php:39
-msgid "Recent years are easy to guess"
-msgstr ""
-
-#: Matchers/YearMatch.php:41
-msgid "Avoid recent years"
-msgstr ""
-
-#: Matchers/YearMatch.php:42
-msgid "Avoid years that are associated with you"
-msgstr ""
-
-#: Matchers/SpatialMatch.php:64
+#: Matchers/SpatialMatch.php:67
 msgid "Straight rows of keys are easy to guess"
 msgstr ""
 
-#: Matchers/SpatialMatch.php:65
+#: Matchers/SpatialMatch.php:68
 msgid "Short keyboard patterns are easy to guess"
 msgstr ""
 
-#: Matchers/SpatialMatch.php:70
+#: Matchers/SpatialMatch.php:73
 msgid "Use a longer keyboard pattern with more turns"
 msgstr ""
 
-#: Matchers/L33tMatch.php:105
-msgid "Predictable substitutions like '@' instead of 'a' don't help very much"
-msgstr ""
-
-#: Matchers/RepeatMatch.php:92
+#: Matchers/RepeatMatch.php:94
 msgid "Repeats like \"aaa\" are easy to guess"
 msgstr ""
 
-#: Matchers/RepeatMatch.php:93
+#: Matchers/RepeatMatch.php:95
 msgid ""
 "Repeats like \"abcabcabc\" are only slightly harder to guess than \"abc\""
 msgstr ""
 
-#: Matchers/RepeatMatch.php:98
+#: Matchers/RepeatMatch.php:100
 msgid "Avoid repeated words and characters"
 msgstr ""
 
-#: Matchers/SequenceMatch.php:94
-msgid "Sequences like abc or 6543 are easy to guess"
+#: Matchers/DictionaryMatch.php:104
+msgid "Capitalization doesn't help very much"
 msgstr ""
 
-#: Matchers/SequenceMatch.php:96
-msgid "Avoid sequences"
+#: Matchers/DictionaryMatch.php:106
+msgid "All-uppercase is almost as easy to guess as all-lowercase"
+msgstr ""
+
+#: Matchers/DictionaryMatch.php:118
+msgid "This is a top-10 common password"
+msgstr ""
+
+#: Matchers/DictionaryMatch.php:120
+msgid "This is a top-100 common password"
+msgstr ""
+
+#: Matchers/DictionaryMatch.php:122
+msgid "This is a very common password"
+msgstr ""
+
+#: Matchers/DictionaryMatch.php:125
+msgid "This is similar to a commonly used password"
+msgstr ""
+
+#: Matchers/DictionaryMatch.php:130
+msgid "A word by itself is easy to guess"
+msgstr ""
+
+#: Matchers/DictionaryMatch.php:137
+msgid "Names and surnames by themselves are easy to guess"
+msgstr ""
+
+#: Matchers/DictionaryMatch.php:139
+msgid "Common names and surnames are easy to guess"
+msgstr ""
+
+#: Matchers/YearMatch.php:41
+msgid "Recent years are easy to guess"
+msgstr ""
+
+#: Matchers/YearMatch.php:43
+msgid "Avoid recent years"
+msgstr ""
+
+#: Matchers/YearMatch.php:44
+msgid "Avoid years that are associated with you"
+msgstr ""
+
+#: Matchers/ReverseDictionaryMatch.php:52
+msgid "Reversed words aren't much harder to guess"
+msgstr ""
+
+#: Matchers/L33tMatch.php:107
+msgid "Predictable substitutions like '@' instead of 'a' don't help very much"
+msgstr ""
+
+#: Matchers/DateMatch.php:117
+msgid "Dates are often easy to guess"
+msgstr ""
+
+#: Matchers/DateMatch.php:119
+msgid "Avoid dates and years that are associated with you"
 msgstr ""
 
 #: Feedback.php:29

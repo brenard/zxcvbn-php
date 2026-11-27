@@ -21,7 +21,7 @@ msgstr ""
 
 #: Matchers/DictionaryMatch.php:105
 msgid "Capitalization doesn't help very much"
-msgstr "Les majuscules n'aide pas vraiement"
+msgstr "Les majuscules n'améliore pas vraiment la complexité"
 
 #: Matchers/DictionaryMatch.php:107
 msgid "All-uppercase is almost as easy to guess as all-lowercase"
@@ -31,11 +31,11 @@ msgstr ""
 
 #: Matchers/DictionaryMatch.php:119
 msgid "This is a top-10 common password"
-msgstr "Ce mot de passe fait parti du top 10 des plus communs"
+msgstr "Ce mot de passe fait partie du top 10 des plus communs"
 
 #: Matchers/DictionaryMatch.php:121
 msgid "This is a top-100 common password"
-msgstr "Ce mot de passe fait parti du top 100 des plus communs"
+msgstr "Ce mot de passe fait partie du top 100 des plus communs"
 
 #: Matchers/DictionaryMatch.php:123
 msgid "This is a very common password"
@@ -59,7 +59,7 @@ msgstr "Les noms et surnoms communs sont assez simples à deviner"
 
 #: Matchers/ReverseDictionaryMatch.php:51
 msgid "Reversed words aren't much harder to guess"
-msgstr "Les mots réservés ne sont pas plus compliqués à deviner"
+msgstr "Les mots inversés ne sont pas très compliqués à deviner"
 
 #: Matchers/DateMatch.php:115
 msgid "Dates are often easy to guess"
@@ -97,7 +97,7 @@ msgstr ""
 
 #: Matchers/L33tMatch.php:105
 msgid "Predictable substitutions like '@' instead of 'a' don't help very much"
-msgstr "Les substitutions comme un '@' à la place d'un 'a' n'aide pas vraiment"
+msgstr "Les substitutions prévisibles comme un '@' à la place d'un 'a' ne renforcent pas vraiment le mot de passe"
 
 #: Matchers/RepeatMatch.php:92
 msgid "Repeats like \"aaa\" are easy to guess"
@@ -124,7 +124,7 @@ msgstr "Éviter les séquences"
 
 #: Feedback.php:29
 msgid "Use a few words, avoid common phrases"
-msgstr "Utiliser quelques mots, éviter les phrases courantes"
+msgstr "Utiliser quelques mots, éviter les expressions courantes"
 
 #: Feedback.php:30
 msgid "No need for symbols, digits, or uppercase letters"
